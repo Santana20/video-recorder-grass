@@ -1,0 +1,20 @@
+{
+  "name": "video-recorder-grass",
+  "version": "1.0.0",
+  "description": "This is project to create a automatize process to get and upload video recorder of dvr Hikvision to Youtube of football matches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Contreras",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^134.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  }
+}
