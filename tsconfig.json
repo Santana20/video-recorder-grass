@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "noLib": false,
+        "outDir": "dist" // Carpeta de salida para los archivos compilados
+    },
+    "exclude": [
+        "test"
+    ]
+}
